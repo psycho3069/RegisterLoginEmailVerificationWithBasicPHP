@@ -1,1 +1,1 @@
-# RegisterLoginEmailVerificationWithBasicPHP
+# RegisterLoginEmailVerificationWithBasicPHP - feature
